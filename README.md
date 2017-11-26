@@ -8,3 +8,4 @@ It responds to UDP packets received on this network and controls the motors acco
 Conversely, it broadcasts the scan results of the ultrasonic sensor on the network.
 This was made to allow the robot to be controlled using a Nintendo DS running a custom software.
 
+The code for the UDP communication was made by Silver Moon (m00n.silv3r@gmail.com).
